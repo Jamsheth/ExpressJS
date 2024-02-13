@@ -1,0 +1,4 @@
+>> at very first you need to type "npm init" in terminal
+>> then install express by "npm install express" code in terminal
+
+>>if you want to import express typu const expres= require("express)
